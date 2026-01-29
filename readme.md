@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://raganork.site">
-    <img src="https://i.ibb.co/QL4BQQ6/Untitled-1.png" alt="Get Session" width="300"/>
+    <img src="https://i.ibb.co/QL4BQQ6/Untitled-1.RGNK~iqxVoiY4
   </a>
 </p>
 
@@ -155,3 +155,4 @@ GPL License - See LICENSE file for details.
 ---
 
 **Note:** Some files are obfuscated for security reasons and should not be modified.
+
